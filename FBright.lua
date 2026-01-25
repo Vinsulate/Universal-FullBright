@@ -1,6 +1,3 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
 if not _G.FullBrightExecuted then
 
 	_G.FullBrightEnabled = false
